@@ -1,3 +1,9 @@
+There’s a lack of information on how to use Jetpack Paging 3 in KMP mode, especially on integrating it into iOS using SwiftUI. This projects aims to be a guide on how to use Jetpack Paging 3 in KMP to plug it in into SwiftUI and Jetpack Compose
+
+Related article:
+https://blog.thesurfcode.com/kmp-pagination-using-jetpack-paging3
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
